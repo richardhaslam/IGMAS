@@ -1,0 +1,46 @@
+License Terms and Conditions of IGMAS+
+Of the Helmholtz-Centre Potsdam – German Research Centre for Geosciences GFZ, a Public Law Foundation under the laws of the County Brandenburg, Germany, Telegrafenberg, 14469 Potsdam, Germany, VAT ID No. according to § 27a VAT Tax Act: DE 138407750, Mail: igmas@gfz-potsdam.de (hereafter “GFZ”)
+1. Scope of application
+(1) These License Terms and Conditions (“Terms”) apply for the contractual relation between GFZ and entitled users which have registered following the Registration process (see clause 2) (“USER”).
+(2) These Terms govern the USER’s acquisition and use of IGMAS+-software in executable form, any updates as well as the respective documentation/user Manual ("Software") as provided by GFZ as download on the website www.gfz-potsdam.de/igmas (“Website”), e-mail: igmas@gfz-potsdam.de.
+2. Registration
+(1) The USER needs to register on the Website to be able to download the Software.
+(2) There are two types of licenses from which the USER has to choose one when registering: a personal individual single-user license ("Personal License") and a group multi-user license ("Group License"). The scope of the Licenses is defined as license grant in clause 4.
+a. The Personal License is issued to a single person and is non-transferable. In case the USER needs licenses for several persons, a separate registration form needs to be filled in by each person or a Group License needs to be requested.
+b. The Group License is issued to an entity like a research institute, a university or a company to be used by their employees as well as their onsite working exchange scientists as entitled multi-users, but only for own internal research, educational or commercial purposes of the registered entity.
+(3) The USER is responsible for ensuring that his device meets the requirements to work with the Software.
+3. Term, Termination
+(1) The license runs for one year, starting on the day of submitting the registration form by the USER (see clause 2(1)), and is automatically terminated after one year. To use the software after one year, the USER needs to request a new license again by new registration on the Website. The Software will notify the User about the approaching end of the license in advance.
+(2) Extraordinary termination rights for important reasons remain unaffected.
+4. License Grant
+(1) Depending on the USER’s chosen option at his registration (see clause 2 (1)), GFZ hereby grants the USER either a Personal License (single-user for an individual, non-transferable) or a Group License (multi-user license for an entity; entitled multi-users are employees as well as onsite working exchange scientists and guests of the registered entity).
+(2) Personal License and Group License are non-sublicensable and non-exclusive. Both types of Licenses allow the USER to install and use the Software in executable form by the USER himself (Personal License) or the USER’s entitled multi-users (Group License) on the USER’s devices under USER’s control in accordance with these Terms, but only for own internal research, educational or commercial purposes of the USER.
+(3) The USER is not permitted to:
+• Copy, edit, alter, modify, adapt, translate or otherwise change the whole or any part of the Software except as expressly provided under this license,
+• Permit the whole or any part of the Software to be combined with or become incorporated in any other software or create any derivative works,
+• Decipher, decompile, disassemble or reverse engineer the Software, in whole or in part.
+• Reproduce, copy, distribute, resell or otherwise use the Software for any commercial purpose other than its own business purposes; the USER is especially not allowed to sell or provide the Software to third parties.
+• Use the Software in any way which breaches any applicable local, national or international law. The USER especially agrees that the Software will not be shipped, transferred, exported, or re-exported into any country or used in any manner prohibited by the German Export Control Law or any other applicable export laws, restriction or regulations.
+Any attempt otherwise to copy, modify, sublicense or distribute the Software is void, and will automatically terminate the USER’s rights under this Agreement.
+5. Intellectual Property Rights, Citation
+(1) All copyrights, trademarks and all other intellectual property rights in and to the Software, including any modifications, updates and upgrades made hereto by GFZ and to all subsequent downloads of the Software by USER, are and shall remain the sole and exclusive property of GFZ.
+(2) The USER agrees not to remove any copyright, trademark, proprietary rights, disclaimer or warning notice included on or embedded in any part of the Software.
+(3) When the Software is used for generating results etc. for publication, the Software has to be acknowledged and cited as follows:
+The results were produced using IGMAS+ software (Götze & Lahmeyer, 1988; Schmidt et al., 2010).
+Götze, H. J., & Lahmeyer, B. (1988). Application of three-dimensional interactive modeling in gravity and magnetics. Geophysics, 53(8), 1096-1108.
+Schmidt, S., Götze, H. J., Fichler, C., & Alvers, M. (2010). IGMAS+–a new 3D gravity, FTG and magnetic modeling software. GEO-INFORMATIK Die Welt im Netz, edited by: Zipf, A., Behncke, K., Hillen, F., and Scheffermeyer, J., Akademische Verlagsgesellschaft AKA GmbH, Heidelberg, Germany, 57-63.
+6. Maintenance
+From time to time, GFZ may make available new versions or updates of the Software via a website as download, if and when those new versions become available. Nothing in this Agreement shall oblige GFZ to develop such new versions or updates. Bug-fixes and new features are only supported for the GFZ-executable version of the Software. GFZ is free to terminate the maintenance any time.
+7. No Warranty, Disclaimer
+GFZ does not warrant that the Software will function without errors or interruptions. The Software is provided “as is" without warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose.
+GFZ shall not be held responsible for the performance of or output obtained from the Software nor for any liability to any party arising out of use of the Software.
+8. Limited Liability
+(1) GFZ is liable for willful misconduct and gross negligence. For slight negligence, GFZ shall only be liable in the event of breach of a material contractual obligation (cardinal obligation), the fulfilment of which is essential for the proper performance of the contract and on the enhancement of which the USER may regularly rely, as well as in the event of damage resulting from injury to life, limb or health or statutory liability.
+(2) Any further liability, also for indirect and/or consequential damages arising out of the use or inability to use the Software (including loss of profit, loss of data or data being rendered inaccurately or losses sustained by you or third parties or a failure of the program to operate with any other programs), shall be expressly excluded.
+9. Data privacy
+The personal data collected from the USER is processed, used and stored only for the purpose of processing and executing the USER’s purchase of the Software and the invoicing during the contract period (term) of the Software license. When processing the personal data of the USER, GFZ observes the legal regulations.
+10. Governing Law, Place of Jurisdiction
+(1) This Agreement is governed by and construed and enforced in accordance with the laws of Germany. The application of the UN Sales Convention is excluded.
+(2) The Parties shall try to solve disputes amicably. If an amicably solution is not possible and a mediation is not successful, the exclusive place of jurisdiction for all disputes arising out of or in connection with this contract shall be Potsdam, Germany.
+11. Severability clause
+Should individual provisions of this contract be or become invalid in whole or in part, the validity of the remaining provisions shall not be affected thereby.
