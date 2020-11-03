@@ -1,0 +1,16 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
+
+## [1.3.0] - unreleased
+
+### Added
+- This changelog.
+
+### Changed
+- Version numbers will now be generated following
+  `[major].[minor].[ci_pipeline_id]-[commit_hash]-[testing]`.
+
+### Fixed
+- Fixed Linux executables.
