@@ -3,14 +3,76 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [1.3.0] - unreleased
-
-### Added
-- This changelog.
-
-### Changed
-- Version numbers will now be generated following
-  `[major].[minor].[ci_pipeline_id]-[commit_hash]-[testing]`.
+## [1.4.0] - unreleased
 
 ### Fixed
-- Fixed Linux executables.
+- Bug with wrong calculation of anomaly if the voxel density unit is not t/m^3 (#74)
+- Calculation of the body volumes (#32)
+- Exception after closing a project (#95)
+- Padding in the installer (#14)
+- Update check wrongly notified that there is a newer version (#94)
+- Installer link in popup update notification (#92)
+
+### Added
+- A possibility to choose units other than t/m3 during voxel import (#21)
+- An option to perform update check (#96)
+
+### Changed
+- GFZ logo in the starting view
+- License attributes (#93, #98)
+
+## [1.3.8656]
+
+### Fixed
+- Custom projection using GeoTools (#22)
+- Voxel density units (#74)
+- Dark/light theme selector not working for the first start (#83)
+- The size of windows for text input (#76)
+- Consistent user experience for all platforms (#69)
+- Build problem (#65)
+- Bug with reading "calculated (measured) Geoid" from ".station" format (#38)
+- Build problem (#59)
+- Spherical calculation settings of "Max. Length" (#37)
+- An error occurred when section was defined with normal (0, -1) (#35)
+- Bug when save project button is disabled while reaching recent items directory (#4)
+- EPSG codes not appearing in projection lists (#28)
+- Multiple cutter showed anomaly field in white (#36)
+- Residual field is in mGal/km when the gradients are calculated in Eötvös (#36)
+- Wrong factor for magnetic field calculation with mT (#29)
+- Bug related to memory settings (#31)
+- Image export
+- WorldWind renderer
+- Linux executables
+
+### Added
+- GFZ branding in installer (#14)
+- Calculation of body volume (#32)
+- GeoTools gt-referencing projection (#78)
+- New `flatlaf` design themes
+- Integrate update check (#43)
+- Notification about missing coordinate system when starting spherical approximation (#16)
+- 2-D View icon to the toolbar
+- Warning for the missing projection
+- This changelog
+
+### Changed
+- Migrated to latest `JOGL` bindings (#84)
+- Name of the app after installation changed to `IGMAS+` (#81)
+- `About` window (#53)
+- Switch from `JSyntaxPane` to `RSyntaxTextArea` (#71)
+- Migrated to new `truelicense` version `v4` (#56)
+- Using "imported" instead of "measured" for Geoid for export/import (#41)
+- Disabled SSL certificate validation for WorldWind tile server
+- Viewboard logo - GFZ logo is used now (#14)
+- Switched to latest jython 2.7.2b2
+- Switched to java8 as minimum requirement
+- Switched to the latest parsii library
+- Switched to the latest proj4j library
+- Updated main logo
+- Updated installer
+- Version numbers will now be generated following `[major].[minor].[ci_pipeline_id]-[commit_hash]-[testing]`.
+
+### Removed
+- `toolbox3d` dependency (#57)
+- Geometry inversion from installer (#33)
+- Unsupported cluster installer
