@@ -3,7 +3,26 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
-## [1.4.0] - unreleased
+## [1.4.8690]
+
+### Fixed
+- Wrong symbols in the license text due to encoding (#106)
+- Problem with license wizard after installation (#112)
+- Starting from icon in macOS (#107)
+- Issue with mouse pointer (#118) related to working sections (#35) 
+
+### Added
+- 58 new themes from JFormDesginer (#113)
+- Possibility to select colormaps for fields and residuals from scientific colormap set (#45)
+- Possibility ot change contours for fields and residuals
+
+### Changed
+- Old icon in wizards was replaced with new IGMAS icon (#108)
+- Colormaps of the fields and residuals (#45)
+- Mirrored residual colorbar limits to ensure white zero values (#45)
+- Field rendering options are saved for each project (#45)
+
+## [1.4.8671]
 
 ### Fixed
 - Bug with wrong calculation of anomaly if the voxel density unit is not t/m^3 (#74)
