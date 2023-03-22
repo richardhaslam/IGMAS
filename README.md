@@ -7,3 +7,4 @@ Welcome to the official repository for **IGMAS+** releases.
 Please visit our website for more information:\
 https://www.gfz-potsdam.de/igmas
 
+[<img src="https://img.shields.io/badge/doi-10.5880/GFZ.4.5.IGMAS.V.1.3-blue.svg?style=flat-square" alt="doi:10.5281/zenodo.157746">](https://doi.org/10.5880/GFZ.4.5.IGMAS.V.1.3)
