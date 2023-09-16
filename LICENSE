@@ -1,5 +1,5 @@
 License Terms and Conditions of IGMAS+
-Of the Helmholtz-Centre Potsdam – German Research Centre for Geosciences GFZ, a Public Law Foundation under the laws of the County Brandenburg, Germany, Telegrafenberg, 14469 Potsdam, Germany, VAT ID No. according to § 27a VAT Tax Act: DE 138407750, Mail: igmas@gfz-potsdam.de (hereafter “GFZ”)
+Of the Helmholtz-Centre Potsdam – German Research Centre for Geosciences GFZ, a Public Law Foundation under the laws of the County Brandenburg, Germany, Telegrafenberg, 14473 Potsdam, Germany, VAT ID No. according to § 27a VAT Tax Act: DE 138407750, Mail: igmas@gfz-potsdam.de (hereafter “GFZ”)
 1. Scope of application
 (1) These License Terms and Conditions (“Terms”) apply for the contractual relation between GFZ and entitled users which have registered following the Registration process (see clause 2) (“USER”).
 (2) These Terms govern the USER’s acquisition and use of IGMAS+-software in executable form, any updates as well as the respective documentation/user Manual ("Software") as provided by GFZ as download on the website www.gfz-potsdam.de/igmas (“Website”), e-mail: igmas@gfz-potsdam.de.
@@ -13,7 +13,7 @@ b. The Group License is issued to an entity like a research institute, a univers
 (1) The license runs for one year, starting on the day of submitting the registration form by the USER (see clause 2(1)), and is automatically terminated after one year. To use the software after one year, the USER needs to request a new license again by new registration on the Website. The Software will notify the User about the approaching end of the license in advance.
 (2) Extraordinary termination rights for important reasons remain unaffected.
 4. License Grant
-(1) Depending on the USER’s chosen option at his registration (see clause 2 (1)), GFZ hereby grants the USER either a Personal License (single-user for an individual, non-transferable) or a Group License (multi-user license for an entity; entitled multi-users are employees as well as onsite working exchange scientists and guests of the registered entity).
+(1) Depending on the USER’s chosen option at his registration (see clause 2(1)), GFZ hereby grants the USER either a Personal License (single-user for an individual, non-transferable) or a Group License (multi-user license for an entity; entitled multi-users are employees as well as onsite working exchange scientists and guests of the registered entity).
 (2) Personal License and Group License are non-sublicensable and non-exclusive. Both types of Licenses allow the USER to install and use the Software in executable form by the USER himself (Personal License) or the USER’s entitled multi-users (Group License) on the USER’s devices under USER’s control in accordance with these Terms, but only for own internal research, educational or commercial purposes of the USER.
 (3) The USER is not permitted to:
 • Copy, edit, alter, modify, adapt, translate or otherwise change the whole or any part of the Software except as expressly provided under this license,
@@ -26,9 +26,10 @@ Any attempt otherwise to copy, modify, sublicense or distribute the Software is 
 (1) All copyrights, trademarks and all other intellectual property rights in and to the Software, including any modifications, updates and upgrades made hereto by GFZ and to all subsequent downloads of the Software by USER, are and shall remain the sole and exclusive property of GFZ.
 (2) The USER agrees not to remove any copyright, trademark, proprietary rights, disclaimer or warning notice included on or embedded in any part of the Software.
 (3) When the Software is used for generating results etc. for publication, the Software has to be acknowledged and cited as follows:
-The results were produced using IGMAS+ software (Götze & Lahmeyer, 1988; Schmidt et al., 2010).
-Götze, H. J., & Lahmeyer, B. (1988). Application of three-dimensional interactive modeling in gravity and magnetics. Geophysics, 53(8), 1096-1108.
+The results were produced using IGMAS+ software (Götze & Lahmeyer, 1988; Schmidt et al., 2010; Anikiev et al.,2020).
+Götze, H. J., & Lahmeyer, B. (1988). Application of three-dimensional interactive modeling in gravity and magnetics. Geophysics, 53(8), 1096-1108. https://doi.org/10.1190/1.1442546
 Schmidt, S., Götze, H. J., Fichler, C., & Alvers, M. (2010). IGMAS+–a new 3D gravity, FTG and magnetic modeling software. GEO-INFORMATIK Die Welt im Netz, edited by: Zipf, A., Behncke, K., Hillen, F., and Scheffermeyer, J., Akademische Verlagsgesellschaft AKA GmbH, Heidelberg, Germany, 57-63.
+Anikiev, D., Götze, H.-J., Meeßen, C., Plonka, C., Scheck-Wenderoth, M., & Schmidt, S. (2020). IGMAS+: Interactive Gravity and Magnetic Application System (1.3) [Computer software]. GFZ Data Services. https://doi.org/10.5880/GFZ.4.5.IGMAS.V.1.3
 6. Maintenance
 From time to time, GFZ may make available new versions or updates of the Software via a website as download, if and when those new versions become available. Nothing in this Agreement shall oblige GFZ to develop such new versions or updates. Bug-fixes and new features are only supported for the GFZ-executable version of the Software. GFZ is free to terminate the maintenance any time.
 7. No Warranty, Disclaimer
