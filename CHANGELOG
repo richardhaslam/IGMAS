@@ -1,7 +1,83 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
+
+## [1.4.8840]
+
+### Added
+- Import of lines (#124, #188)
+- Interface inversion functionality (#135)
+- Bounding box for interface inversion (#142)
+- Export of quality and standard deviation values per iteration after interface inversion (#146, #171)
+- Nearest neighbour interpolation for empty voxels while importing voxel cubes (#158)
+- Special panel for empty voxel cells after importing a voxel cube (#162)
+
+### Changed
+- Colours and line styles for fields in the 2D view (#126)
+- Triangulation check message corrected to Topology check (#156)
+- Misleading wording in the voxelization panel: "cubes" changed to "cells" (#165)
+- Redesign of the sectioning wizard (#44, #173, #217, #236, #242)
+- Title of new model wizard (#174)
+- Default header for imported CSV files (#219)
+
+### Fixed
+- Incorrect 3D rendering of intersecting bitmaps with enabled transparency/alpha channel (#128, #192)
+- Graphical issue after deletion of the stations (#136)
+- Issues during interface inversion (#137, #143, #147, #151, #159, #170, #179)
+- Problem with voxel import while using grouping option (#141)
+- Exception in MarchingCubesPlugin (#144)
+- Problem with density geoid inversion (#145)
+- Problem with missing anomaly field after loading the project (#148)
+- Visualization of crossing triangles in the 2D view (#149)
+- Errors in voxelization resulting in voxels with zero density (#153)
+- Problem with creating a project using horizon import (#154)
+- Wrong effective density value in the information tab (#161, #246)
+- Problem with SVG export from the Multiple Cutter View (#166)
+- Coordinate issues while creating new project using import of horizons (#168, #169)
+- Wrong voxel visualization in 2D View when using non-square voxel cells (#175)
+- Bug with re-installation of older version on top of the newer (#176)
+- Incorrect calculation of the border effect in case when the density of the model units is not given in t/m3 (#178)
+- Wrong name for the standard deviation in linear parameter inversion, voxel effect (#189)
+- Error in distance unit conversion while loading voxel cubes (#190)
+- Incorrect vertical placement of loaded bitmaps in the Multiple Cutter View (#208)
+- Not updating body volume values after automatic correction of polygon orientation (#216)
+- Problem while loading horizons with identical points as CSV files (#218)
+- Incorrect parsing of headers of certain TSURF GOCAD files (#220, #221)
+- New body added to a model is not assigned the existing properties (#224)
+- Installer is not creating shortcuts on Linux (#222)
+- Wrong calculation of voxel effect when combined with triangulation (#227)
+- Bug while rendering images in the WorldWind plugin (#230)
+- Effective density in information tab is shown even outside of the voxel cube (#231)
+- Wrong application of default voxel function to the bodies deactivated during the voxel import (#232)
+- Voxel cube is not visible in the 2D View (#233) 
+- Wrong assignment of the voxel cells to bodies after geometry changes (#239)
+- Image files with names containing space are not reloaded with project (#240)
+- Problem with visualization and calculation after loading voxel cubes of susceptibility type (#243)
+- Problem with loading projects created with earlier versions (#244)
+- Wrong effective density in information tab while voxel factor is not equal to 1 (#246)
+
+## [1.4.8707]
+
+### Fixed
+- All visibility settings of calculated and measured fields are synchronised for comparability (#45)
+- By default the colour bar for each field in 2D Maps View is placed horizontally below each panel (#45)
+- Rounding of the contour (isoline) labels (#132)
+- Adjustment of colour bar position in 2D Maps View (#125)
+- Sorting and storing of the list of model parameters in body manager (#122)
+
+### Added
+- An option to change the font size of the axes and colour bars in 2D Map View (#45)
+- Reversed colour maps from the scientific colour map set (#45)
+- An option to set up manually the limits and the step of isolines or contours (#45)
+- An option to set up the colour bar position (#45)
+- A possibility to load a local KML/KMZ files in the WorldWind plugin (#123)
+- An option in the object tree to show/hide fields in different views (#130)
+- An option to remove the components and fields (#131)
+- Added a WMS service (in the WorldWind plugin) by GFZ Potsdam based on maps.gfz-potsdam.de (#133)
+
+### Changed
+- Flatlaf updated to 1.1.2
 
 ## [1.4.8690]
 
