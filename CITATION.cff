@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+title: >-
+  IGMAS+: Interactive Gravity and Magnetic Application
+  System 
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Denis
+    family-names: Anikiev
+    email: igmas@gfz-potsdam.de
+    affiliation: >-
+      The Helmholtz Centre Potsdam - GFZ German Research
+      Centre for Geosciences
+    orcid: 'https://orcid.org/0000-0002-4729-2659'
+  - given-names: Hans-Jürgen
+    family-names: Götze
+    orcid: 'https://orcid.org/0000-0003-1477-0121'
+  - given-names: Christian
+    family-names: Plonka
+    orcid: 'https://orcid.org/0000-0003-4097-5702'
+  - given-names: Magdalena
+    family-names: Scheck-Wenderoth
+    orcid: 'https://orcid.org/0000-0003-0426-8269'
+  - given-names: Sabine
+    family-names: Schmidt
+    orcid: 'https://orcid.org/0000-0002-7018-7267'
+identifiers:
+  - type: doi
+    value: 10.5880/GFZ.4.5.igmas.v.1.4
+    description: IGMAS+ v1.4
+  - type: doi
+    value: 10.5880/GFZ.4.5.igmas.v.1.3
+    description: IGMAS+ v1.3
+url: 'https://www.gfz-potsdam.de/igmas'
+repository: 'https://git.gfz-potsdam.de/igmas/igmas-releases'
+abstract: >-
+  IGMAS+ is a software combining 3-D forward and inverse
+  modeling, interactive visualization and interdisciplinary
+  interpretation of potential fields and their applications
+  under geophysical and geological data constrains. 
+keywords:
+  - gravity
+  - magnetics
+  - potential field
+  - geophysics
+  - earth
+  - modelling
+license: IGMAS+
+commit: '8840'
+version: '1.4'
+date-released: '2023-10-23'
+license-url: 'https://git.gfz-potsdam.de/igmas/igmas-releases/-/blob/master/LICENSE'
