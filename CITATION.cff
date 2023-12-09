@@ -28,6 +28,9 @@ authors:
     orcid: 'https://orcid.org/0000-0002-7018-7267'
 identifiers:
   - type: doi
+    value: 10.5880/GFZ.4.5.igmas
+    description: IGMAS+ Collection
+  - type: doi
     value: 10.5880/GFZ.4.5.igmas.v.1.4
     description: IGMAS+ v1.4
   - type: doi
@@ -47,7 +50,6 @@ keywords:
   - geophysics
   - earth
   - modelling
-license: IGMAS+
 commit: '8840'
 version: '1.4'
 date-released: '2023-10-23'
