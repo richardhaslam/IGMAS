@@ -29,7 +29,7 @@ Any attempt otherwise to copy, modify, sublicense or distribute the Software is 
 The results were produced using IGMAS+ software (Götze & Lahmeyer, 1988; Schmidt et al., 2010; Anikiev et al., 2023).
 Götze, H. J., & Lahmeyer, B. (1988). Application of three-dimensional interactive modeling in gravity and magnetics. Geophysics, 53(8), 1096-1108. https://doi.org/10.1190/1.1442546
 Schmidt, S., Götze, H. J., Fichler, C., & Alvers, M. (2010). IGMAS+ – a new 3D gravity, FTG and magnetic modeling software. GEO-INFORMATIK Die Welt im Netz, edited by: Zipf, A., Behncke, K., Hillen, F., and Scheffermeyer, J., Akademische Verlagsgesellschaft AKA GmbH, Heidelberg, Germany, 57-63.
-Anikiev, D., Götze, H.-J., Plonka, C., Scheck-Wenderoth, M., & Schmidt, S. (2023). IGMAS+: Interactive Gravity and Magnetic Application System (1.4) [Computer software]. GFZ Data Services. https://doi.org/10.5880/GFZ.4.5.IGMAS.V.1.4
+Anikiev, D., Götze, H.-J., Plonka, C., Scheck-Wenderoth, M., & Schmidt, S. (2023). IGMAS+: Interactive Gravity and Magnetic Application System. GFZ Data Services. https://doi.org/10.5880/GFZ.4.5.IGMAS
 6. Maintenance
 From time to time, GFZ may make available new versions or updates of the Software via a website as download, if and when those new versions become available. Nothing in this Agreement shall oblige GFZ to develop such new versions or updates. Bug-fixes and new features are only supported for the GFZ-executable version of the Software. GFZ is free to terminate the maintenance any time.
 7. No Warranty, Disclaimer
